@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+    td , th {
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            padding: 0.5rem;
+        }
+        .class4,.class2{
+            background-color: #ffffff;
+        }
+        .class1,.class3{
+            background-color: #f2f2f2;
+        }
